@@ -1,7 +1,10 @@
 //1 If-else Condition
 console.log("1. If-else Condition:");
 
-let number = -5;
+let number = -3;
+
+console.log(`Number given is ${number} therefore:`);
+
 if (number > 0)
 {
     console.log(" 'number' is a positive number");
@@ -22,8 +25,8 @@ console.log("\n");
 
 //2 Switch Statemant
 console.log("2.Switch Statement:");
-
 let day = 5
+console.log(`Number given is ${day} therefore:`);
 switch (day) {
     case 1:
         console.log("Today is Monday");
