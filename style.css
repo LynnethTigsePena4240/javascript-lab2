@@ -1,0 +1,10 @@
+body
+{
+    text-align: center;
+    padding: 5%;
+    margin: 50px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    background-color: aliceblue;
+    color: rgb(141, 99, 60);
+    font-size: large;
+}
